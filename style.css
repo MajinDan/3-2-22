@@ -1,0 +1,21 @@
+body {
+    background-color: chartreuse;
+}
+h1 {
+    color: crimson;
+}
+ul {
+    background-color: bisque;
+}
+p {
+    color: brown;
+}
+strong {
+    color: coral;
+}
+em {
+    color: deeppink;
+}
+ins {
+    color: darkgoldenrod;
+}
